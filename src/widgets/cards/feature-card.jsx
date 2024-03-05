@@ -10,7 +10,7 @@ export function FeatureCard({ color, icon, title, description,image }) {
   return (
     <Card className="rounded-lg shadow-lg shadow-gray-500/10 ">
       <CardBody className="px-8 text-center">
-      <img src='../../../public/img/logop.png' alt={title} className="w-20 h-20 mb-4 mx-auto" />
+      <img src='/img/logop.png' alt={title} className="w-20 h-20 mb-4 mx-auto" />
        
         <Typography variant="h5" className="mb-2" color="blue-gray">
           {title}

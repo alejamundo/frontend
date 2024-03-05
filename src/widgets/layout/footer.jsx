@@ -25,8 +25,8 @@ export function Footer() {
           </div>
           <div className="mx-auto">
             <img
-              src="../../../public/img/logo.png"
-              alt=""
+              src="/img/logo.png"
+              alt="imag logo"
               className="w-96 lg:w-80 xl:w-96 float-left mr-8 rounded"
             />
           </div>

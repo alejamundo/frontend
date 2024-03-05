@@ -15,7 +15,7 @@ import { PageTitle, Footer } from "@/widgets/layout";
 import { FeatureCard, TeamCard } from "@/widgets/cards";
 import { featuresData, teamData, contactData } from "@/data";
 import ReactPlayer from 'react-player';
-import logoss from '../../public/img/logop.png';
+import logoss from '/img/logop.png';
 
 export function Home() {
   return (
