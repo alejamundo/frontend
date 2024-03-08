@@ -117,7 +117,7 @@ export function Home() {
               <Typography
                 variant="h2"
                 color="white"
-                className="mt-40 mb-6 font-black "
+                className="mt-40 mb-8 font-black "
               >
                 Conoce más de  Don Henry Café
               </Typography>
@@ -129,7 +129,7 @@ export function Home() {
                   title="Facebook Video"
                   src="https://www.facebook.com/plugins/video.php?height=600&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F828185475720713%2F"
                   width="100%"
-                  height="600px"
+                  height="400px"
                   style={{ border: 'none', overflow: 'hidden', borderRadius: '8px' }}
                   allowFullScreen={true}
                   allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
